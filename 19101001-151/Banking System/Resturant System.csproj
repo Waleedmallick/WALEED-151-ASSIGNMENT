@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>Banking_System</RootNamespace>
+    <RootNamespace>Banking_System<RootNamespace>
   </PropertyGroup>
 
 </Project>
